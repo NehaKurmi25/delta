@@ -1,2 +1,2 @@
 # delta
-learn dalta in git and github
+learn dalta in git and github.
